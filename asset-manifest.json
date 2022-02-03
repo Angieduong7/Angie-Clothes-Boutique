@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/angie-clothes-boutique/static/css/main.27b3a678.css",
-    "main.js": "/angie-clothes-boutique/static/js/main.a9444c35.js",
-    "static/media/shopping-bag.svg": "/angie-clothes-boutique/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
-    "static/media/crown.svg": "/angie-clothes-boutique/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
-    "index.html": "/angie-clothes-boutique/index.html",
-    "main.27b3a678.css.map": "/angie-clothes-boutique/static/css/main.27b3a678.css.map",
-    "main.a9444c35.js.map": "/angie-clothes-boutique/static/js/main.a9444c35.js.map"
+    "main.css": "/ecommerce-clothes-shop/static/css/main.27b3a678.css",
+    "main.js": "/ecommerce-clothes-shop/static/js/main.a808074c.js",
+    "static/media/shopping-bag.svg": "/ecommerce-clothes-shop/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/ecommerce-clothes-shop/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/ecommerce-clothes-shop/index.html",
+    "main.27b3a678.css.map": "/ecommerce-clothes-shop/static/css/main.27b3a678.css.map",
+    "main.a808074c.js.map": "/ecommerce-clothes-shop/static/js/main.a808074c.js.map"
   },
   "entrypoints": [
     "static/css/main.27b3a678.css",
-    "static/js/main.a9444c35.js"
+    "static/js/main.a808074c.js"
   ]
 }
